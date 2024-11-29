@@ -81,4 +81,15 @@
     border-radius: 30px;
     cursor: pointer;
     text-decoration: none;}
+.home-page {
+    background-color: #e0f7fa; /* Light cyan for home page */
+}
+
+.create-page {
+    background-color:#e0f7fa /* Light pink for about page */
+}
+
+.user-page {
+    background-color: #e0f7fa; /* Light lavender for contact page */
+}
 
